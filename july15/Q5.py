@@ -1,0 +1,11 @@
+x="Hello"
+print(x.upper())
+print(x.lower())
+print(x.replace("H","A"))
+print(x.capitalize())
+print(x.index("o"))
+print("say {}" .format(x))
+print(x.isalnum())
+print(x.isdecimal())
+print(x.islower())
+print(x.isupper())
